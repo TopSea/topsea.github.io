@@ -22,8 +22,8 @@ export default defineAppConfig({
         dropdownType: 'select',
       },
       logo: {
-        light: '/app-icon-rounded.png',
-        dark: '/app-icon-rounded.png',
+        light: '/alive/app-icon-rounded.png',
+        dark: '/alive/app-icon-rounded.png',
       },
       nav: [],
       links: [
