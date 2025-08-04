@@ -7,7 +7,7 @@ navigation: false
   ::card
   ---
   title: Components
-  icon: :smart-icon{name="/alive/app-icon-rounded.png"}
+  icon: /alive/app-icon-rounded.png
   to: /alive
   ---
   Alive is a cross-platform desktop pet software with self-hosted AI services.
