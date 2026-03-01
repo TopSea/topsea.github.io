@@ -6,29 +6,24 @@ navigation: false
 ::hero
 ---
 announcement:
-  title: '发布 v2.0.0'
+  title: 'Release v2.0.0'
   icon: '🎉'
   to: https://github.com/TopSea/Alive/releases
   target: _blank
 actions:
-  - name: 使用文档
+  - name: Documentation
     to: /getting-started/introduction
-    leftIcon: '/icon/documentation.png'
-  - name: 发布地址
+  - name: GitHub
     variant: outline
     to: https://github.com/TopSea/Alive
     leftIcon: '/icon/github.png'
-  - name: Gitee 地址
-    variant: outline
-    to: https://github.com/TopSea/Alive
-    leftIcon: '/icon/gitee.png'
 ---
 
 #title
-随时随地和你最喜欢的角色互动
+Bring your favorite character to Alive
 
 #description
-Alive 是一个跨平台且可以本地部署AI服务的桌宠软件。 :br **可自定义模型**、 **跨平台**、 **免费**！
+Alive is a cross-platform desktop pet software with self-hosted AI services. :br **Customizable**. **Cross-platform**. **Free**.
 ::
 
 ::div{class="border rounded-lg shadow-md"}
